@@ -1,0 +1,23 @@
+{
+  "name": "rywal_firma",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000r\u0000y\u0000w\u0000a\u0000l\u0000_\u0000f\u0000i\u0000r\u0000m\u0000a\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "buildcss": "tailwind build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qweikfyr/rywal_firma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qweikfyr/rywal_firma/issues"
+  },
+  "homepage": "https://github.com/qweikfyr/rywal_firma#readme",
+  "dependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
